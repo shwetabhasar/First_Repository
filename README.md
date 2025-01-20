@@ -1,4 +1,4 @@
-# hospitalmanagementsystem
+# myfirstRepository
 <br>
 This is my Hospital Management System Website
 <br>
